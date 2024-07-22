@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color: rgb(73, 9, 118);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+h2{
+    text-align: center;
+
+}
+
+.Para1 {
+    text-align: justify;
+}
+li {
+    text-decoration: underline;
+    line-height: 1.25;
+}
