@@ -1,3 +1,7 @@
+body {
+    background-image: url(./pic/pexels-hngstrm-1939485.jpg);
+}
+
 h1 {
     text-align: center;
     color: rgb(73, 9, 118);
@@ -34,3 +38,8 @@ a {
 .imgo{
     text-align: center;
 }
+
+img{
+    width: 30px;
+}
+
