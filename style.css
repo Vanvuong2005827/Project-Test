@@ -3,7 +3,8 @@ body {
 }
 
 h1 {
-    text-align: center;
+    text-align:center;
+    
     color: rgb(73, 9, 118);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
@@ -15,6 +16,10 @@ h2{
 
 .Para1 {
     text-align: justify;
+    position: relative;
+    width: 50%;
+    left: 25%;
+    
 }
 li {
     text-decoration: underline;
